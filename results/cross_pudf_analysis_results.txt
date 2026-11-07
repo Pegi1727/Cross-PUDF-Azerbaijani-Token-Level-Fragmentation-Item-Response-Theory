@@ -1,0 +1,309 @@
+/usr/local/lib/python3.11/site-packages/scipy/stats/_axis_nan_policy.py:531: UserWarning: scipy.stats.shapiro: Input data has range zero. The results may not be accurate.
+  res = hypotest_fun_out(*samples, **kwds)
+DATA VALIDATION
+Scores: 100; sampling selections: 150; unique sampled items: 96; tiers: ['basic_everyday', 'intermediate_narrative', 'advanced_academic_technical', 'morphologically_complex']; theta: [-2.0, 0.0, 2.0]
+rows per tier: {'advanced_academic_technical': 25, 'basic_everyday': 25, 'intermediate_narrative': 25, 'morphologically_complex': 25}
+selections per theta/batch: {(-2.0, 1): 10, (-2.0, 2): 10, (-2.0, 3): 10, (-2.0, 4): 10, (-2.0, 5): 10, (0.0, 1): 10, (0.0, 2): 10, (0.0, 3): 10, (0.0, 4): 10, (0.0, 5): 10, (2.0, 1): 10, (2.0, 2): 10, (2.0, 3): 10, (2.0, 4): 10, (2.0, 5): 10}
+
+1. TIER DESCRIPTIVE STATISTICS (sample SD; IQR Q3-Q1)
+
+word_count
+                              n  mean           sd  median  IQR  min  max
+tier                                                                     
+basic_everyday               25  4.76 0.9255628918       5    1    3    7
+intermediate_narrative       25  7.44   0.86986589       7    1    6    9
+advanced_academic_technical  25  8.64  1.186029792       9    1    7   12
+morphologically_complex      25  6.32          0.9       6    1    5    8
+
+target_token_count
+                              n  mean          sd  median  IQR  min  max
+tier                                                                    
+basic_everyday               25  12.6 2.309401077      12    2    8   17
+intermediate_narrative       25 22.52 3.292921702      22    4   18   30
+advanced_academic_technical  25 26.16 3.647830405      26    6   20   33
+morphologically_complex      25 27.36 2.826658805      27    5   22   33
+
+source_token_count
+                              n  mean          sd  median  IQR  min  max
+tier                                                                    
+basic_everyday               25 16.28 3.182242396      16    4   11   22
+intermediate_narrative       25 31.56 4.726520919      31    7   21   40
+advanced_academic_technical  25 40.24 4.639324663      41    8   33   52
+morphologically_complex      25 42.68 4.793398238      43    6   36   57
+
+target_fertility
+                              n        mean           sd      median          IQR   min   max
+tier                                                                                         
+basic_everyday               25 2.699142857   0.53024451 2.666666667          0.6   1.8     4
+intermediate_narrative       25 3.055238095 0.5031179293           3        0.875  2.25     4
+advanced_academic_technical  25 3.070920635 0.5432048281         3.1 0.8194444444   2.3 4.125
+morphologically_complex      25 4.392238095 0.6376936703 4.333333333            1 3.375   5.8
+
+target_to_source_ratio
+                              n         mean            sd       median           IQR          min          max
+tier                                                                                                           
+basic_everyday               25  0.783967088  0.1210976458 0.7727272727 0.09090909091 0.5333333333  1.083333333
+intermediate_narrative       25 0.7211728019    0.10177714 0.7037037037  0.1696428571        0.525 0.9285714286
+advanced_academic_technical  25 0.6524640557  0.0780582366 0.6590909091 0.08888888889 0.5227272727 0.8529411765
+morphologically_complex      25 0.6436646227 0.05624518025 0.6315789474 0.09047619048 0.5434782609 0.7948717949
+
+nonoverlap_proxy
+                              n         mean            sd       median           IQR          min          max
+tier                                                                                                           
+basic_everyday               25 0.4071890756  0.1266835159          0.4  0.1282051282 0.1538461538 0.6666666667
+intermediate_narrative       25 0.5141055069   0.100141984 0.5454545455  0.1174089069 0.2962962963 0.6666666667
+advanced_academic_technical  25 0.5283060283  0.1191320726         0.52   0.195970696        0.375          0.8
+morphologically_complex      25 0.5582523551 0.08293093185 0.5666666667 0.08990147783 0.3333333333 0.7083333333
+
+b_tilde
+                              n        mean           sd      median          IQR         min         max
+tier                                                                                                     
+basic_everyday               25 3.106331933 0.5161638286         3.1 0.6833333333         2.3      4.3125
+intermediate_narrative       25 3.569343602 0.4849866198 3.483695652 0.8133333333 2.805555556 4.464285714
+advanced_academic_technical  25 3.599226663 0.5529451793 3.551612903 0.6675925926  2.77826087 4.535714286
+morphologically_complex      25  4.95049045 0.6427146321 4.944700461 0.9285714286 3.967592593 6.317241379
+
+b_tilde_zscore
+                              n          mean           sd        median          IQR          min          max
+tier                                                                                                           
+basic_everyday               25 -0.7990662813 0.5891993553 -0.8062941623  0.780022809 -1.719491597 0.5777707001
+intermediate_narrative       25 -0.2705399453 0.5536106714 -0.3683068056 0.9284173922 -1.142401552 0.7510336063
+advanced_academic_technical  25 -0.2364285269 0.6311851492 -0.2907794812 0.7620548039 -1.173558348 0.8325690915
+morphologically_complex      25   1.306034754 0.7336566918   1.299425499  1.059961308 0.1840600004  2.866176557
+
+discrimination_a
+                              n        mean           sd      median          IQR  min  max
+tier                                                                                       
+basic_everyday               24 2.592857143 0.3953440951 2.633333333          0.6  1.8    3
+intermediate_narrative       24 2.824156746 0.2397635453           3 0.3883928571 2.25    3
+advanced_academic_technical  23 2.802777778 0.2737985181           3 0.4722222222  2.3    3
+morphologically_complex      25           3            0           3            0    3    3
+
+2. SHAPIRO-WILK NORMALITY TESTS BY TIER
+
+W and p
+                                                     n            W               p
+metric                 tier                                                        
+word_count             basic_everyday               25 0.8845709475  0.008598024653
+                       intermediate_narrative       25  0.876862743  0.005957765759
+                       advanced_academic_technical  25  0.898282187   0.01683561515
+                       morphologically_complex      25 0.8664325259  0.003671797965
+target_token_count     basic_everyday               25 0.9472034671       0.2166783
+                       intermediate_narrative       25 0.9530467181    0.2933285871
+                       advanced_academic_technical  25 0.9574881964    0.3667221484
+                       morphologically_complex      25 0.9611588667    0.4380368667
+source_token_count     basic_everyday               25 0.9450630517    0.1936016831
+                       intermediate_narrative       25  0.971508898    0.6835104327
+                       advanced_academic_technical  25 0.9357622124    0.1181212523
+                       morphologically_complex      25 0.9100092552   0.03049442696
+target_fertility       basic_everyday               25 0.9661467217    0.5497463366
+                       intermediate_narrative       25 0.9442237781    0.1852081074
+                       advanced_academic_technical  25 0.9489345239    0.2372081112
+                       morphologically_complex      25 0.9643079883    0.5067411393
+target_to_source_ratio basic_everyday               25  0.971398602    0.6806936723
+                       intermediate_narrative       25 0.9579897772    0.3758931815
+                       advanced_academic_technical  25 0.9614792793    0.4447192209
+                       morphologically_complex      25 0.9482575084    0.2289721357
+nonoverlap_proxy       basic_everyday               25 0.9744502836    0.7581269105
+                       intermediate_narrative       25 0.9581617996    0.3790803997
+                       advanced_academic_technical  25 0.9470230849    0.2146374387
+                       morphologically_complex      25 0.9620652802    0.4571257308
+b_tilde                basic_everyday               25 0.9708288853    0.6661548206
+                       intermediate_narrative       25 0.9601713879    0.4178992842
+                       advanced_academic_technical  25 0.9462837258    0.2064600204
+                       morphologically_complex      25 0.9648752659     0.519799288
+b_tilde_zscore         basic_everyday               25 0.9708288853    0.6661548206
+                       intermediate_narrative       25 0.9601713879    0.4178992842
+                       advanced_academic_technical  25 0.9462837258    0.2064600204
+                       morphologically_complex      25 0.9648752659     0.519799288
+discrimination_a       basic_everyday               24 0.8685375313   0.00492548228
+                       intermediate_narrative       24 0.7560182012 6.105315561e-05
+                       advanced_academic_technical  23 0.6998972764 1.395509305e-05
+                       morphologically_complex      25            1               1
+
+3. BETWEEN-TIER TESTS (ANOVA + Kruskal-Wallis) AND POST-HOC
+
+word_count: one-way ANOVA F=71.25152306, df=(3,96), p=2.500573228e-24; Kruskal-Wallis H=70.80910158, df=3, p=2.864124791e-15
+Tukey HSD (familywise adjusted):
+                   Multiple Comparison of Means - Tukey HSD, FWER=0.05                    
+==========================================================================================
+           group1                    group2         meandiff p-adj   lower   upper  reject
+------------------------------------------------------------------------------------------
+advanced_academic_technical          basic_everyday    -3.88    0.0 -4.6036 -3.1564   True
+advanced_academic_technical  intermediate_narrative     -1.2 0.0002 -1.9236 -0.4764   True
+advanced_academic_technical morphologically_complex    -2.32    0.0 -3.0436 -1.5964   True
+             basic_everyday  intermediate_narrative     2.68    0.0  1.9564  3.4036   True
+             basic_everyday morphologically_complex     1.56    0.0  0.8364  2.2836   True
+     intermediate_narrative morphologically_complex    -1.12 0.0006 -1.8436 -0.3964   True
+------------------------------------------------------------------------------------------
+Pairwise Mann-Whitney U, Bonferroni corrected:
+                     tier_1                      tier_2    U          p_raw   p_Bonferroni
+             basic_everyday      intermediate_narrative 14.5 4.25228938e-09 2.55137363e-08
+             basic_everyday advanced_academic_technical    2 1.14780757e-09 6.88684541e-09
+             basic_everyday     morphologically_complex   77 2.53512284e-06  1.5210737e-05
+     intermediate_narrative advanced_academic_technical  134 0.000339890476  0.00203934286
+     intermediate_narrative     morphologically_complex  502 0.000134711929 0.000808271576
+advanced_academic_technical     morphologically_complex  589 4.82332655e-08 2.89399593e-07
+
+target_fertility: one-way ANOVA F=44.9381491, df=(3,96), p=3.127519855e-18; Kruskal-Wallis H=51.70520333, df=3, p=3.461252212e-11
+Tukey HSD (familywise adjusted):
+                   Multiple Comparison of Means - Tukey HSD, FWER=0.05                   
+=========================================================================================
+           group1                    group2         meandiff p-adj   lower  upper  reject
+-----------------------------------------------------------------------------------------
+advanced_academic_technical          basic_everyday  -0.3718  0.091 -0.7829 0.0393  False
+advanced_academic_technical  intermediate_narrative  -0.0157 0.9996 -0.4268 0.3954  False
+advanced_academic_technical morphologically_complex   1.3213    0.0  0.9102 1.7324   True
+             basic_everyday  intermediate_narrative   0.3561 0.1136  -0.055 0.7672  False
+             basic_everyday morphologically_complex   1.6931    0.0   1.282 2.1042   True
+     intermediate_narrative morphologically_complex    1.337    0.0  0.9259 1.7481   True
+-----------------------------------------------------------------------------------------
+Pairwise Mann-Whitney U, Bonferroni corrected:
+                     tier_1                      tier_2     U          p_raw   p_Bonferroni
+             basic_everyday      intermediate_narrative 202.5   0.0328124225    0.196874535
+             basic_everyday advanced_academic_technical 200.5   0.0301146974    0.180688184
+             basic_everyday     morphologically_complex   9.5 4.06518264e-09 2.43910959e-08
+     intermediate_narrative advanced_academic_technical 303.5    0.868772374              1
+     intermediate_narrative     morphologically_complex  28.5  3.5807105e-08  2.1484263e-07
+advanced_academic_technical     morphologically_complex    33 5.92400669e-08 3.55440401e-07
+
+b_tilde: one-way ANOVA F=51.84228272, df=(3,96), p=5.196806409e-20; Kruskal-Wallis H=56.16966755, df=3, p=3.864896387e-12
+Tukey HSD (familywise adjusted):
+                   Multiple Comparison of Means - Tukey HSD, FWER=0.05                    
+==========================================================================================
+           group1                    group2         meandiff p-adj   lower   upper  reject
+------------------------------------------------------------------------------------------
+advanced_academic_technical          basic_everyday  -0.4929 0.0113 -0.9014 -0.0844   True
+advanced_academic_technical  intermediate_narrative  -0.0299 0.9975 -0.4384  0.3786  False
+advanced_academic_technical morphologically_complex   1.3513    0.0  0.9428  1.7598   True
+             basic_everyday  intermediate_narrative    0.463 0.0197  0.0545  0.8715   True
+             basic_everyday morphologically_complex   1.8442    0.0  1.4357  2.2527   True
+     intermediate_narrative morphologically_complex   1.3811    0.0  0.9727  1.7896   True
+------------------------------------------------------------------------------------------
+Pairwise Mann-Whitney U, Bonferroni corrected:
+                     tier_1                      tier_2     U          p_raw   p_Bonferroni
+             basic_everyday      intermediate_narrative   164  0.00408104168   0.0244862501
+             basic_everyday advanced_academic_technical   163  0.00383479327   0.0230087596
+             basic_everyday     morphologically_complex     5 2.56522232e-09 1.53913339e-08
+     intermediate_narrative advanced_academic_technical 308.5       0.945856              1
+     intermediate_narrative     morphologically_complex    24 2.29494802e-08 1.37696881e-07
+advanced_academic_technical     morphologically_complex    27 3.19846562e-08 1.91907937e-07
+
+b_tilde_zscore: one-way ANOVA F=51.84228272, df=(3,96), p=5.196806409e-20; Kruskal-Wallis H=56.16966755, df=3, p=3.864896387e-12
+Tukey HSD (familywise adjusted):
+                   Multiple Comparison of Means - Tukey HSD, FWER=0.05                    
+==========================================================================================
+           group1                    group2         meandiff p-adj   lower   upper  reject
+------------------------------------------------------------------------------------------
+advanced_academic_technical          basic_everyday  -0.5626 0.0113 -1.0289 -0.0963   True
+advanced_academic_technical  intermediate_narrative  -0.0341 0.9975 -0.5004  0.4322  False
+advanced_academic_technical morphologically_complex   1.5425    0.0  1.0762  2.0088   True
+             basic_everyday  intermediate_narrative   0.5285 0.0197  0.0622  0.9948   True
+             basic_everyday morphologically_complex   2.1051    0.0  1.6388  2.5714   True
+     intermediate_narrative morphologically_complex   1.5766    0.0  1.1103  2.0429   True
+------------------------------------------------------------------------------------------
+Pairwise Mann-Whitney U, Bonferroni corrected:
+                     tier_1                      tier_2     U          p_raw   p_Bonferroni
+             basic_everyday      intermediate_narrative   164  0.00408104168   0.0244862501
+             basic_everyday advanced_academic_technical   163  0.00383479327   0.0230087596
+             basic_everyday     morphologically_complex     5 2.56522232e-09 1.53913339e-08
+     intermediate_narrative advanced_academic_technical 308.5       0.945856              1
+     intermediate_narrative     morphologically_complex    24 2.29494802e-08 1.37696881e-07
+advanced_academic_technical     morphologically_complex    27 3.19846562e-08 1.91907937e-07
+
+4. OVERALL PEARSON AND SPEARMAN CORRELATIONS
+word_count vs target_token_count: Pearson r=0.6219313648, p=4.981877629e-12; Spearman rho=0.5363680988, p=8.837892169e-09
+word_count vs target_fertility: Pearson r=-0.1902977516, p=0.05790443319; Spearman rho=-0.1660102158, p=0.09879862008
+word_count vs nonoverlap_proxy: Pearson r=0.1317850901, p=0.1912158803; Spearman rho=0.1142145358, p=0.2578476626
+word_count vs b_tilde: Pearson r=-0.1652974975, p=0.1002754357; Spearman rho=-0.127573899, p=0.2059160849
+
+Per-tier Spearman word count vs target token count
+basic_everyday: n=25, rho=0.371153745677, p=0.0677546719788
+intermediate_narrative: n=25, rho=0.227373449496, p=0.274367684665
+advanced_academic_technical: n=25, rho=0.178400804575, p=0.393541826535
+morphologically_complex: n=25, rho=0.303394939179, p=0.140395332491
+
+5. ZPD SAMPLING
+
+Tier counts by theta pooled over batches
+tier   basic_everyday  intermediate_narrative  advanced_academic_technical  morphologically_complex
+theta                                                                                              
+-2.0               20                      15                           15                        0
+ 0.0               13                      15                           13                        9
+ 2.0                5                      12                            9                       24
+
+Batch 1: tier counts by theta
+tier   basic_everyday  intermediate_narrative  advanced_academic_technical  morphologically_complex
+theta                                                                                              
+-2.0                6                       2                            2                        0
+ 0.0                3                       3                            3                        1
+ 2.0                0                       1                            1                        8
+
+Batch 2: tier counts by theta
+tier   basic_everyday  intermediate_narrative  advanced_academic_technical  morphologically_complex
+theta                                                                                              
+-2.0                5                       3                            2                        0
+ 0.0                2                       3                            4                        1
+ 2.0                0                       1                            1                        8
+
+Batch 3: tier counts by theta
+tier   basic_everyday  intermediate_narrative  advanced_academic_technical  morphologically_complex
+theta                                                                                              
+-2.0                5                       0                            5                        0
+ 0.0                3                       3                            1                        3
+ 2.0                2                       1                            1                        6
+
+Batch 4: tier counts by theta
+tier   basic_everyday  intermediate_narrative  advanced_academic_technical  morphologically_complex
+theta                                                                                              
+-2.0                0                       6                            4                        0
+ 0.0                3                       4                            1                        2
+ 2.0                3                       3                            2                        2
+
+Batch 5: tier counts by theta
+tier   basic_everyday  intermediate_narrative  advanced_academic_technical  morphologically_complex
+theta                                                                                              
+-2.0                4                       4                            2                        0
+ 0.0                2                       2                            4                        2
+ 2.0                0                       6                            4                        0
+Chi-square tier x theta, pooled: chi2=37.56409451, df=6, p=1.366725726e-06; min expected=11
+
+Fisher information, selection probability, and discrimination summaries by theta
+
+fisher_information_weight
+        n         mean           sd       median            min         max
+theta                                                                      
+-2.0   50 0.3152338832 0.2795484941 0.2373078527 0.001943102839 1.055044785
+ 0.0   50  1.417891015 0.6672686423  1.562586999   0.1753099197 2.249734187
+ 2.0   50  0.508035464  0.731473496 0.1683310388 0.004411276573 2.249552934
+
+selection_probability
+        n          mean            sd        median             min           max
+theta                                                                            
+-2.0   50 0.05500182207 0.04746070139 0.04157722914 0.0009279447844  0.1985916101
+ 0.0   50 0.02402347571 0.01366231216 0.02196031342  0.002458089052 0.06093177893
+ 2.0   50 0.07256248026 0.07282195101 0.05649059261  0.002450179184  0.3953372084
+
+2pl_discrimination_a
+        n        mean            sd  median  min  max
+theta                                                
+-2.0   50 2.639444444  0.3357929638  2.6125  1.8    3
+ 0.0   50 2.893722222  0.2254075427       3    2    3
+ 2.0   50 2.972420635 0.09560204222       3  2.5    3
+
+Discrimination ceiling a=3: selected records and unique-item proportions
+
+Ceiling proportions
+       selections_n  ceiling_selections  selection_prop  unique_items_n  ceiling_unique_items  unique_prop
+theta                                                                                                     
+-2.0             50                  17            0.34              50                    17         0.34
+ 0.0             50                  38            0.76              50                    38         0.76
+ 2.0             50                  45             0.9              50                    45          0.9
+
+Item overlap across theta (unique row_id sets; Jaccard=intersection/union)
+-2 vs 0: intersection=26, union=74, Jaccard=0.3513513514
+-2 vs 2: intersection=11, union=89, Jaccard=0.1235955056
+0 vs 2: intersection=23, union=77, Jaccard=0.2987012987
+All theta: intersection=6, union=96
+
+NOTE: batch-level draws are without replacement within theta; each theta has 50 selections. Overlap uses unique row IDs. SDs are sample SD. Tukey follows one-way ANOVA; Mann-Whitney post-hoc p-values use Bonferroni adjustment.
