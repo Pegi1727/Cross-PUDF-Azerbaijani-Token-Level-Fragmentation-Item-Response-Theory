@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If using this package, please cite it and edit the placeholder author before publication."
+title: "Cross-PUDF Azerbaijani tokenizer study: reproducibility package"
+type: dataset
+authors:
+  - family-names: "EDIT_THIS_PLACEHOLDER"
+    given-names: "EDIT_THIS_PLACEHOLDER"
+    affiliation: "Please replace with the actual author affiliation"
+date-released: "2025-01-01"
+version: "1.0.0"
