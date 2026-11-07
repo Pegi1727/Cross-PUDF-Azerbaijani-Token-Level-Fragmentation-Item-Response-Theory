@@ -1,5 +1,6 @@
 # Cross-PUDF Azerbaijani Token-Level Fragmentation & IRT-Inspired Difficulty
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24030747.svg)](https://doi.org/10.5281/zenodo.24030747)
+[![Release](https://img.shields.io/badge/zenodo-v1.0.0-blue.svg)](https://doi.org/10.5281/zenodo.24030747)
 [![Analysis](https://img.shields.io/badge/analysis-exploratory-blue)](#scope-and-status)
 [![Corpus](https://img.shields.io/badge/sentences-100-informational)](#dataset)
 [![Tiers](https://img.shields.io/badge/tiers-4-purple)](#dataset)
