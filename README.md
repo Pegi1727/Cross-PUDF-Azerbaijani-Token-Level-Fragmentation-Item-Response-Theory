@@ -20,10 +20,10 @@ Click a figure to open the full-resolution image. These links expect the PNG fil
 
 | Figure | Description |
 |---|---|
-| [Figure 1](figures/cross_pudf_figure_1.png) | Study overview / tokenizer comparison |
-| [Figure 2](figures/cross_pudf_figure_2.png) | Tokenization and fragmentation summaries |
-| [Figure 3](figures/cross_pudf_figure_3.png) | Difficulty-score and tier comparisons |
-| [Figure 4](figures/cross_pudf_figure_4.png) | Ability-conditioned sampling / ZPD illustration |
+| [Figure 1](cross_pudf_figure_1.png) | Study overview / tokenizer comparison |
+| [Figure 2](cross_pudf_figure_2.png) | Tokenization and fragmentation summaries |
+| [Figure 3](cross_pudf_figure_3.png) | Difficulty-score and tier comparisons |
+| [Figure 4](cross_pudf_figure_4.png) | Ability-conditioned sampling / ZPD illustration |
 
 ## Scope and status
 
