@@ -1,0 +1,151 @@
+﻿theta,batch_number,position_in_batch,row_id,tier,sentence,selection_probability,fisher_information_weight,2pl_discrimination_a,2pl_difficulty_b,probability_correct_at_theta,seed
+-2.0,1,1,37,intermediate_narrative,Tamaşa başlayanda zalda işıqlar bir-bir söndürüldü.,0.015632463472944322,0.26084347463695595,2.5714285714285716,-0.7754918678306467,0.04114114389779581,42
+-2.0,1,2,1,basic_everyday,Atam bazardan təzə alma aldı.,0.05633219529603419,0.925265806682711,2.0,-1.7194915972190796,0.36331222318977363,42
+-2.0,1,3,11,basic_everyday,Pişik divanın altında yatır.,0.04335787471105309,0.6720428443753887,2.0,-1.348505139268443,0.21366228172636287,42
+-2.0,1,4,9,basic_everyday,Dostum mənə maraqlı bir məktub yazdı.,0.030201856668488635,0.44782890159530286,2.6666666666666665,-1.0155685744409493,0.06753721464944462,42
+-2.0,1,5,52,advanced_academic_technical,Fotosintez zamanı bitkilər işıq enerjisini kimyəvi enerjiyə çevirirlər.,0.011741421238311185,0.16884200222560924,2.5,-0.5779948035248141,0.02778682817619062,42
+-2.0,1,6,46,intermediate_narrative,Günortadan bəri davam edən qar kənd yollarını bağlamışdı.,0.039441523714714,0.5605109506736922,2.25,-1.1424015515180899,0.12679524718829477,42
+-2.0,1,7,64,advanced_academic_technical,Kvant mexanikasında ölçmə nəticələri ehtimal paylanması ilə ifadə edilir.,0.031107969424483423,0.42464487752397784,2.4444444444444446,-0.9838603301716636,0.07699480074567192,42
+-2.0,1,8,3,basic_everyday,Bacım kitabını masanın üstünə qoydu.,0.018921158970494675,0.25025187749560257,2.6,-0.7623904394292723,0.03850190521007202,42
+-2.0,1,9,21,basic_everyday,Bu köynək mənə bir az böyükdür.,0.06011385440777111,0.7800242316924229,2.0,-1.4911922384802263,0.2654921278999481,42
+-2.0,1,10,2,basic_everyday,Bu gün hava çox gözəldir.,0.05578841455486343,0.6803819546610728,1.8,-1.5292421316033684,0.2999860766120228,42
+-2.0,2,1,14,basic_everyday,Bu stəkan soyuq su ilə doludur.,0.09162053071645533,1.0550447850986455,2.1666666666666665,-1.696076278374069,0.34107633225873546,42
+-2.0,2,2,33,intermediate_narrative,İtkin açarları tapmaq üçün bütün otaqları yenidən axtardıq.,0.03979658357607814,0.4162854126672256,2.375,-0.9730127729216452,0.08023970173014891,42
+-2.0,2,3,0,basic_everyday,Mən səhər çay içirəm.,0.02851452925803136,0.2864012144240045,2.5,-0.8062941622636669,0.048141830114626256,42
+-2.0,2,4,8,basic_everyday,"Pəncərəni aç, otaq isti oldu.",0.05788413149732401,0.5648127347754524,2.4,-1.1297182538103758,0.11020231716193027,42
+-2.0,2,5,53,advanced_academic_technical,Məqalədə korrelyasiya ilə səbəbiyyət arasındakı fərq ayrıca izah olunur.,0.029006554314434732,0.2666523525706793,2.5555555555555554,-0.7825819100275063,0.042648457171769356,42
+-2.0,2,6,44,intermediate_narrative,Gecə boyu yanan çıraq uzaqdan gələn qonaqlara yol göstərirdi.,0.0648908008949513,0.5792268832999005,2.4444444444444446,-1.1395189838572453,0.10876698818940576,42
+-2.0,2,7,17,basic_everyday,Müəllim lövhəyə yeni söz yazdı.,0.021019354957518596,0.175447542570888,2.8,-0.6595302887886905,0.02290306339593987,42
+-2.0,2,8,47,intermediate_narrative,Əli bağçada tapdığı yaralı quşu ehtiyatla evə gətirdi.,0.049368864433998697,0.40341788560948605,2.625,-0.9680062080370212,0.0624453249039652,42
+-2.0,2,9,62,advanced_academic_technical,Spektroskopik təhlil nümunənin molekulyar tərkibi haqqında məlumat verir.,0.012311141584099933,0.09563401108683199,3.0,-0.492382543997744,0.01074137844271995,42
+-2.0,2,10,5,basic_everyday,Qonşumuz yeni bir maşın aldı.,0.07361567184301601,0.5648127347754524,2.4,-1.1297182538103758,0.11020231716193027,42
+-2.0,3,1,63,advanced_academic_technical,Məlumat bazasının normallaşdırılması təkrarlanan qeydlərin sayını azaldır.,0.005905154300023446,0.04197170866466914,3.0,-0.2138029693461673,0.0046854768785425955,42
+-2.0,3,2,59,advanced_academic_technical,Mikroprosessor əmrləri yaddaşdan götürərək onları ardıcıl şəkildə icra edir.,0.015995271766359904,0.11301727845159841,2.888888888888889,-0.5204321446974962,0.0137305388731608,42
+-2.0,3,3,24,basic_everyday,"Zəhmət olmasa, mənə bir stəkan su ver.",0.0879794969400894,0.6116907050754814,2.4285714285714284,-1.1698465024402442,0.11752420321592845,42
+-2.0,3,4,13,basic_everyday,Telefonumun batareyası bitdi.,0.017337874404118613,0.10993876682874083,3.0,-0.5399449104016716,0.012368395749954247,42
+-2.0,3,5,74,advanced_academic_technical,Statistik əhəmiyyət praktiki təsirin böyüklüyü ilə eyni anlayış deyil.,0.0670670882181608,0.4178964458882002,2.3333333333333335,-0.9748008318090108,0.08377468849323685,42
+-2.0,3,6,22,basic_everyday,Səhər yeməyinə pendir və zeytun yedik.,0.05498199981003256,0.31961722197720654,2.6666666666666665,-0.872881475229166,0.04717130373677141,42
+-2.0,3,7,7,basic_everyday,Anam nahar üçün şorba bişirdi.,0.14343484898582562,0.7879604176678285,2.4,-1.3199677194260866,0.16354596691804527,42
+-2.0,3,8,20,basic_everyday,Atam hər gün qəzet oxuyur.,0.1426380506810957,0.6711900622203459,2.4,-1.2248429866182309,0.13465913514747638,42
+-2.0,3,9,65,advanced_academic_technical,İqlim proqnozları müxtəlif ssenarilər üzrə qeyri-müəyyənlik intervalı təqdim edir.,0.14831664502449124,0.5983622970228795,2.3,-1.1735583480609528,0.13001616982731837,42
+-2.0,3,10,56,advanced_academic_technical,Təklif olunan model qeyri-xətti münasibətləri məhdud sayda parametr vasitəsilə təsvir edir.,0.17226542583414364,0.5919030929391832,2.4166666666666665,-1.1533354288523259,0.11444643527981813,42
+-2.0,4,1,61,advanced_academic_technical,Hidravlik sistemdə təzyiq itkisi borunun uzunluğu və diametri ilə dəyişir.,0.19859161011853096,0.5648127347754524,2.4,-1.1297182538103758,0.11020231716193027,42
+-2.0,4,2,49,intermediate_narrative,Qapını açanda içəridən təzə bişmiş çörəyin ətri gəldi.,0.031710117459358915,0.07227620127450567,3.0,-0.3972578111898884,0.00809623810190334,42
+-2.0,4,3,38,intermediate_narrative,Səhər tezdən yola düşən səyyah axşama yaxın çaya çatdı.,0.05120849154817278,0.11301727845159841,2.888888888888889,-0.5204321446974962,0.0137305388731608,42
+-2.0,4,4,73,advanced_academic_technical,Məxfilik mexanizmi fərdi məlumatların icazəsiz açıqlanması riskini məhdudlaşdırır.,0.0009279447843514207,0.0019431028385075407,3.0,0.8134206063646351,0.0002159469484742821,42
+-2.0,4,5,29,intermediate_narrative,Gün batarkən dənizin üzərində narıncı işıq yayılırdı.,0.09208101969857269,0.192637388775922,2.5714285714285716,-0.6486588907535065,0.030035567572554166,42
+-2.0,4,6,40,intermediate_narrative,Köhnə fotoşəkildə ailəmizin hamısı bağın qarşısında dayanmışdı.,0.018798831587376944,0.03570659315245433,3.0,-0.15944597917025008,0.0039832656443550924,42
+-2.0,4,7,66,advanced_academic_technical,Tədqiqatçılar hipotezi yoxlamaq üçün nəzarət və sınaq qruplarını müqayisə etdilər.,0.028301920009408583,0.052746240885514016,3.0,-0.2907794812404502,0.005895449759591649,42
+-2.0,4,8,41,intermediate_narrative,Orxan itirdiyi dəftəri kitabxananın oxu zalında tapdı.,0.12389274680519657,0.22436382790087891,2.5714285714285716,-0.7120753792920766,0.03516838163186056,42
+-2.0,4,9,68,advanced_academic_technical,Polimerin mexaniki davamlılığı temperatur və rütubət dəyişdikcə fərqlənir.,0.014870549945056028,0.023593439890340916,3.0,-0.02041752352799979,0.002628401817261977,42
+-2.0,4,10,34,intermediate_narrative,Rauf məktubu oxuyandan sonra qərarını dəyişməyə razılaşdı.,0.006153124525561295,0.009617301731055305,3.0,0.27975850145116293,0.0010697334107985458,42
+-2.0,5,1,55,advanced_academic_technical,Protokol şifrələnmiş məlumatların ötürülməsini və bütövlüyünün yoxlanmasını təmin edir.,0.009971324681853291,0.015489231540812278,3.0,0.1204612805861985,0.0017239978955006102,42
+-2.0,5,2,10,basic_everyday,Sabah mağazadan çörək alacağam.,0.019933408859876597,0.030655355905533137,3.0,-0.10822496919678913,0.0034178322333456453,42
+-2.0,5,3,23,basic_everyday,"Dünən yağış yağdı, yollar islandı.",0.05834678314076095,0.0879421926803184,3.0,-0.4638451241553875,0.009868746907787567,42
+-2.0,5,4,26,intermediate_narrative,Köhnə sandığın içində babasının gənclik məktubları vardı.,0.07981050355553135,0.11327430812393686,2.857142857142857,-0.512766415313713,0.014074185441010209,42
+-2.0,5,5,15,basic_everyday,Qardaşım futbol oynamağı sevir.,0.08417870150901169,0.10993876682874083,3.0,-0.5399449104016716,0.012368395749954247,42
+-2.0,5,6,27,intermediate_narrative,Səfərə çıxmazdan əvvəl xəritəni diqqətlə yoxlamağı unutmadıq.,0.0019587580426480627,0.0023428267331051327,3.0,0.7510336062763667,0.0002603818801796517,42
+-2.0,5,7,16,basic_everyday,Saat yeddidə evdən çıxırıq.,0.039685796412143565,0.047374317501287774,3.0,-0.2545707119781052,0.005291816376258681,42
+-2.0,5,8,30,intermediate_narrative,Aysel müsabiqədə qalib gələcəyinə əvvəlcə inanmırdı.,0.007720106640625319,0.008850025418285602,3.0,0.3075299818864945,0.0009843050139477717,42
+-2.0,5,9,57,advanced_academic_technical,Atmosferdəki aerozollar buludların yaranmasına və radiasiya balansına təsir göstərə bilər.,0.0576662564563844,0.06559597156835816,3.0,-0.36442443567233823,0.007342351409595113,42
+-2.0,5,10,31,intermediate_narrative,Qatar gecikdiyi üçün sərnişinlər vağzalda uzun müddət gözlədilər.,0.13769435600167085,0.1475965791375967,2.75,-0.5831834253143334,0.019913448455863396,42
+0.0,1,1,35,intermediate_narrative,Dağ yolunda duman sıxlaşdıqca sürücümüz sürəti azaltdı.,0.015360745170866266,1.5447453523470986,3.0,0.4217556850184057,0.2200685306776156,42
+0.0,1,2,22,basic_everyday,Səhər yeməyinə pendir və zeytun yedik.,0.005814193239985263,0.5757198725048365,2.6666666666666665,-0.872881475229166,0.9111440050991956,42
+0.0,1,3,28,intermediate_narrative,Kəndə qayıdan Murad uşaqlıq dostlarını dərhal tanıdı.,0.015441734526820634,1.520146343748296,3.0,-0.43123093004983715,0.7847715763460844,42
+0.0,1,4,92,morphologically_complex,Dəyişdirilməyəcəyinə inandığımız qaydalar sonradan yenidən nəzərdən keçirildi.,0.005873763243558921,0.5693078565142983,3.0,0.8733368341721804,0.06786162922229261,42
+0.0,1,5,57,advanced_academic_technical,Atmosferdəki aerozollar buludların yaranmasına və radiasiya balansına təsir göstərə bilər.,0.01756016238829542,1.692001732635773,3.0,-0.36442443567233823,0.7489976053798794,42
+0.0,1,6,54,advanced_academic_technical,Seysmik dalğaların yayılma sürəti süxurların elastik xassələrindən asılıdır.,0.02204510104120856,2.086845677117949,3.0,0.18406000041367254,0.3653587800931465,42
+0.0,1,7,16,basic_everyday,Saat yeddidə evdən çıxırıq.,0.021078556943318536,1.951362444025833,3.0,-0.2545707119781052,0.6821591355485536,42
+0.0,1,8,66,advanced_academic_technical,Tədqiqatçılar hipotezi yoxlamaq üçün nəzarət və sınaq qruplarını müqayisə etdilər.,0.02064476320958115,1.8709182641139677,3.0,-0.2907794812404502,0.7052320464163085,42
+0.0,1,9,15,basic_everyday,Qardaşım futbol oynamağı sevir.,0.013986471414630646,1.2413473476730874,3.0,-0.5399449104016716,0.834772335961639,42
+0.0,1,10,37,intermediate_narrative,Tamaşa başlayanda zalda işıqlar bir-bir söndürüldü.,0.00796867820254377,0.6973556460172752,2.5714285714285716,-0.7754918678306467,0.8801785372704397,42
+0.0,2,1,99,morphologically_complex,"Gözlədiklərimizdən fərqli cavablar alınsa da, təhlili davam etdirməliyik.",0.021176878651309586,1.8384649935085793,3.0,0.30469711366807906,0.28616335245711483,42
+0.0,2,2,55,advanced_academic_technical,Protokol şifrələnmiş məlumatların ötürülməsini və bütövlüyünün yoxlanmasını təmin edir.,0.025631961827158618,2.178108370151958,3.0,0.1204612805861985,0.4106246181993909,42
+0.0,2,3,48,intermediate_narrative,Atamın danışdığı hadisəni eşidən uşaqlar təəccüblə bir-birinə baxdılar.,0.027171307789146597,2.249734186987872,3.0,-0.007246406677680881,0.505434590980497,42
+0.0,2,4,62,advanced_academic_technical,Spektroskopik təhlil nümunənin molekulyar tərkibi haqqında məlumat verir.,0.016907058076310242,1.361836849242649,3.0,-0.492382543997744,0.8141413607416167,42
+0.0,2,5,72,advanced_academic_technical,Enerji səmərəliliyi göstəricisi faydalı çıxışın sərf olunan enerjiyə nisbətidir.,0.028326624458891097,2.243088660641354,3.0,-0.036986553026803454,0.5277114885093732,42
+0.0,2,6,68,advanced_academic_technical,Polimerin mexaniki davamlılığı temperatur və rütubət dəyişdikcə fərqlənir.,0.029214826327866185,2.2478908879393957,3.0,-0.02041752352799979,0.5153083566888023,42
+0.0,2,7,21,basic_everyday,Bu köynək mənə bir az böyükdür.,0.0024580890519693257,0.18360845043849405,2.0,-1.4911922384802263,0.9517719417918475,42
+0.0,2,8,4,basic_everyday,Biz axşam parkda gəzəcəyik.,0.03015881884449907,2.247193824792763,3.0,-0.023553503730456553,0.5176577814361989,42
+0.0,2,9,30,intermediate_narrative,Aysel müsabiqədə qalib gələcəyinə əvvəlcə inanmırdı.,0.025347996685092567,1.8317679959801343,3.0,0.3075299818864945,0.2844304690618965,42
+0.0,2,10,26,intermediate_narrative,Köhnə sandığın içində babasının gənclik məktubları vardı.,0.017671045020143616,1.244625338796463,2.857142857142857,-0.512766415313713,0.8123033717356143,42
+0.0,3,1,20,basic_everyday,Atam hər gün qəzet oxuyur.,0.003971591711758029,0.2747881157999376,2.4,-1.2248429866182309,0.9497707526016383,42
+0.0,3,2,93,morphologically_complex,Razılaşmadıqlarımızı əsaslandırmadan qəbul etdirməyə çalışmaq düzgün deyil.,0.024076928467111913,1.6592283450866794,3.0,0.3773292988169344,0.24379442826049047,42
+0.0,3,3,81,morphologically_complex,Uzaqlaşdırıldıqlarından xəbərsiz olan əməkdaşlar iclasa gecikdilər.,0.00817107491928868,0.5495406884532691,3.0,0.8869260817161598,0.06532779763919533,42
+0.0,3,4,32,intermediate_narrative,Nənəm danışdığı nağılların sonunda həmişə bir məsləhət verərdi.,0.030676609640825858,2.0462787327761967,3.0,-0.20700834557417766,0.6504516412612384,42
+0.0,3,5,53,advanced_academic_technical,Məqalədə korrelyasiya ilə səbəbiyyət arasındakı fərq ayrıca izah olunur.,0.010605470426048891,0.6857345958493103,2.5555555555555554,-0.7825819100275063,0.8807898907536807,42
+0.0,3,6,38,intermediate_narrative,Səhər tezdən yola düşən səyyah axşama yaxın çaya çatdı.,0.019414260327942003,1.2419853608590166,2.888888888888889,-0.5204321446974962,0.8180915394521442,42
+0.0,3,7,89,morphologically_complex,Oxuduqlarını başqalarına izah edə bilməyənlər mövzunu yenidən öyrənməlidirlər.,0.033266654889904185,2.086845677117949,3.0,0.18406000041367254,0.3653587800931465,42
+0.0,3,8,40,intermediate_narrative,Köhnə fotoşəkildə ailəmizin hamısı bağın qarşısında dayanmışdı.,0.0350578663756539,2.1260495467498193,3.0,-0.15944597917025008,0.6173553261822974,42
+0.0,3,9,23,basic_everyday,"Dünən yağış yağdı, yollar islandı.",0.024530462131734473,1.435472576319978,3.0,-0.4638451241553875,0.800837243498138,42
+0.0,3,10,19,basic_everyday,Uşaqlar həyətdə sevinclə oynayırlar.,0.020120629807779424,1.1485355770543921,3.0,0.5777707000906299,0.15016441592821733,42
+0.0,4,1,49,intermediate_narrative,Qapını açanda içəridən təzə bişmiş çörəyin ətri gəldi.,0.028750334266255843,1.608119782552457,3.0,-0.3972578111898884,0.767058091359985,42
+0.0,4,2,25,intermediate_narrative,Leyla avtobus dayanacağına çatanda yağış yenicə başlamışdı.,0.03537736770506743,1.9219049000584927,3.0,-0.26815995952208505,0.6909319541213883,42
+0.0,4,3,51,advanced_academic_technical,Alqoritm verilənlərdəki çatışmayan qiymətləri iterativ üsulla təxmin edir.,0.038357312694321535,2.010073780788526,3.0,0.22597319686157832,0.3367257864778553,42
+0.0,4,4,84,morphologically_complex,Qayıdacağımızadək evdə saxlanılacaq ərzaqları siyahıya aldıq.,0.017493977186666954,0.8815889032587084,3.0,0.6966766161004495,0.11006965055833488,42
+0.0,4,5,36,intermediate_narrative,Yeni qonşular köçəndən sonra məhəllə daha canlı göründü.,0.031919943366764195,1.580428644996999,2.875,-0.3683068055527151,0.7424768486997728,42
+0.0,4,6,13,basic_everyday,Telefonumun batareyası bitdi.,0.025898181301764536,1.2413473476730874,3.0,-0.5399449104016716,0.834772335961639,42
+0.0,4,7,97,morphologically_complex,Gizlədildiklərini düşündüyümüz sənədlərin arxivdə saxlanıldığı məlum oldu.,0.0037547245538723383,0.17530991965450904,3.0,1.299425499099533,0.019873849870278484,42
+0.0,4,8,45,intermediate_narrative,İmtahandan sonra tələbələr nəticələri səbirsizliklə gözləyirdilər.,0.03678048634166083,1.7108508517733405,3.0,0.3569454275009649,0.25524407889884815,42
+0.0,4,9,6,basic_everyday,Uşaq məktəbə avtobusla gedir.,0.046114812709017725,2.0661431332589424,3.0,-0.19603241486557899,0.6429284462554826,42
+0.0,4,10,7,basic_everyday,Anam nahar üçün şorba bişirdi.,0.005223768264008975,0.22325436685666872,2.4,-1.3199677194260866,0.9596091397150476,42
+0.0,5,1,10,basic_everyday,Sabah mağazadan çörək alacağam.,0.051552035778104195,2.191731150025213,3.0,-0.10822496919678913,0.5804631385409817,42
+0.0,5,2,63,advanced_academic_technical,Məlumat bazasının normallaşdırılması təkrarlanan qeydlərin sayını azaldır.,0.050431873387562144,2.0335744174671713,3.0,-0.2138029693461673,0.6550718767155802,42
+0.0,5,3,70,advanced_academic_technical,Diferensial tənlik sistemin zamanla dəyişən dinamikasını modelləşdirir.,0.04671845199722548,1.788831942582592,3.0,0.3254183731989336,0.27363548142740907,42
+0.0,5,4,41,intermediate_narrative,Orxan itirdiyi dəftəri kitabxananın oxu zalında tapdı.,0.021564125531562187,0.7871076535023449,2.5714285714285716,-0.7120753792920766,0.8618868802966173,42
+0.0,5,5,8,basic_everyday,"Pəncərəni aç, otaq isti oldu.",0.00942312293038077,0.33653443475323525,2.4,-1.1297182538103758,0.9376915384781171,42
+0.0,5,6,39,intermediate_narrative,"Mən onun niyə susduğunu soruşmadım, çünki yorğun görünürdü.",0.060931778927154165,2.1555926571872823,3.0,-0.13851853795252167,0.6024192596974254,42
+0.0,5,7,96,morphologically_complex,Təsdiqlənə bilməyən fərziyyələrdən istifadə edilməməsi araşdırmanın etibarlılığını qoruyur.,0.012699067974589258,0.42188280956486457,3.0,0.9863746660152812,0.04930705322739895,42
+0.0,5,8,52,advanced_academic_technical,Fotosintez zamanı bitkilər işıq enerjisini kimyəvi enerjiyə çevirirlər.,0.02941710773782978,0.9648715471096682,2.5,-0.5779948035248141,0.809225730595714,42
+0.0,5,9,94,morphologically_complex,Tamamlanmış işlərimizin yoxlanılmasını məsul əməkdaşlara həvalə etdik.,0.04715946211119544,1.501312165362318,3.0,0.4384809127648418,0.2115775022957386,42
+0.0,5,10,73,advanced_academic_technical,Məxfilik mexanizmi fərdi məlumatların icazəsiz açıqlanması riskini məhdudlaşdırır.,0.021875525803829506,0.6635610519485886,3.0,0.8134206063646351,0.0801536063892717,42
+2.0,1,1,27,intermediate_narrative,Səfərə çıxmazdan əvvəl xəritəni diqqətlə yoxlamağı unutmadıq.,0.007822206848282364,0.20264324780232218,3.0,0.7510336062763667,0.9769529154722925,42
+2.0,1,2,86,morphologically_complex,Münasibətlərimizin yaxşılaşdırılmasına yönəldilmiş təkliflər müzakirə olundu.,0.08751930762225416,2.249552933829312,3.0,2.009397928848854,0.4929520202209933,42
+2.0,1,3,85,morphologically_complex,Hazırlanması nəzərdə tutulmuş nümunələrin qablaşdırılması tamamlanmalıdır.,0.024382728025084524,0.5718713267549523,3.0,1.1283965573053314,0.9318086861929389,42
+2.0,1,4,82,morphologically_complex,Səhvlərimizdən öyrənməyənlərimiz eyni çətinliklərlə təkrarən qarşılaşırlar.,0.09735241145020572,2.2276257086845503,3.0,1.9332981426025702,0.5498601280421868,42
+2.0,1,5,76,morphologically_complex,Müəllimlərimizin şagirdlərimizə tövsiyə etdikləri kitablar kitabxanamızdadır.,0.0866688031854634,1.7900968709902854,3.0,1.6751024392669625,0.7260538601036179,42
+2.0,1,6,87,morphologically_complex,İmzalanmamış müqavilələrin tərəflərimizə göndərilməsini dayandırdılar.,0.0775424054819133,1.4627876854476252,3.0,2.4533133486188468,0.20425004657605797,42
+2.0,1,7,73,advanced_academic_technical,Məxfilik mexanizmi fərdi məlumatların icazəsiz açıqlanması riskini məhdudlaşdırır.,0.013909650166283318,0.2420497533126887,3.0,0.8134206063646351,0.9723405370760134,42
+2.0,1,8,80,morphologically_complex,Razılaşdırılmamış dəyişikliklərin istifadəçilərimizə bildirilməsi vacibdir.,0.10869057842739345,1.8650781988759302,3.0,2.2933086698446083,0.2931931117835155,42
+2.0,1,9,79,morphologically_complex,Yeniləşdirilməyən proqramların təhlükəsizliyini mütəmadi yoxlamalısınız.,0.037919589129896444,0.5799589646085245,3.0,2.866176556759608,0.06923310823196117,42
+2.0,1,10,98,morphologically_complex,Yerləşdirilməli olduqları bölmələr əvvəlcədən müəyyənləşdirilmədiyindən fayllar qarışdı.,0.08837537587417987,1.3003979876859177,3.0,1.4835378851792542,0.8248250832395255,42
+2.0,2,1,95,morphologically_complex,Müraciətlərimizin cavablandırılmadığını bildirənlərə əlavə izahat göndərildi.,0.07281570810175396,0.976756116643146,3.0,1.3479151714773059,0.8761270298651853,42
+2.0,2,2,75,morphologically_complex,Görüşümüzədək hazırladığınız sənədləri katiblikdə qeydiyyatdan keçirməlisiniz.,0.17999372428574342,2.2386411924306175,3.0,2.0474478219719963,0.46447409776048737,42
+2.0,2,3,83,morphologically_complex,Müəyyənləşdirə bilmədiklərimizin səbəblərini araşdırmağımız tələb olunur.,0.2022619831357814,2.0628068500566377,3.0,1.802091614591735,0.644219412294586,42
+2.0,2,4,58,advanced_academic_technical,Eksperimentin təkrarlanması ölçmə xətalarının qiymətləndirilməsi üçün vacibdir.,0.03140717940376973,0.25552507729916385,3.0,0.8325690915402426,0.9707529338671586,42
+2.0,2,5,97,morphologically_complex,Gizlədildiklərini düşündüyümüz sənədlərin arxivdə saxlanıldığı məlum oldu.,0.11085466207375391,0.8735742038599265,3.0,1.299425499099533,0.8910705813163645,42
+2.0,2,6,91,morphologically_complex,Görünməyənlərimizin müəyyənləşdirilməsindən sonra siyahı yeniləndi.,0.14074482618958262,0.9861682891681558,3.0,1.352172502176399,0.874734233354764,42
+2.0,2,7,77,morphologically_complex,Danışdıqlarımızdan nəticə çıxarmayanların fikirlərini yenidən dinlədik.,0.056434319051300294,0.3397692247888825,3.0,0.9344884481200878,0.9607036617092883,42
+2.0,2,8,78,morphologically_complex,Qarşılaşdıqlarımızın əksəriyyəti gözlədiyimizdən daha mürəkkəb oldu.,0.39533720839467046,2.245849128612684,3.0,1.9713480357257123,0.5214757521852901,42
+2.0,2,9,84,morphologically_complex,Qayıdacağımızadək evdə saxlanılacaq ərzaqları siyahıya aldıq.,0.05046642903609886,0.1733519402764795,3.0,0.6966766161004495,0.9803526551426706,42
+2.0,2,10,35,intermediate_narrative,Dağ yolunda duman sıxlaşdıqca sürücümüz sürəti azaltdı.,0.02381993696343235,0.07769213626625569,3.0,0.4217556850184057,0.9912917060310101,42
+2.0,3,1,92,morphologically_complex,Dəyişdirilməyəcəyinə inandığımız qaydalar sonradan yenidən nəzərdən keçirildi.,0.09000861778512134,0.28658303753533154,3.0,0.8733368341721804,0.967073270776494,42
+2.0,3,2,81,morphologically_complex,Uzaqlaşdırıldıqlarından xəbərsiz olan əməkdaşlar iclasa gecikdilər.,0.10274549559383264,0.29769151741453076,3.0,0.8869260817161598,0.965750109749551,42
+2.0,3,3,93,morphologically_complex,Razılaşmadıqlarımızı əsaslandırmadan qəbul etdirməyə çalışmaq düzgün deyil.,0.026213178139276715,0.06814578435919659,3.0,0.3773292988169344,0.9923700297360832,42
+2.0,3,4,71,advanced_academic_technical,Tibbi görüntülərin seqmentasiyası anatomik strukturların sərhədlərini müəyyənləşdirir.,0.09713159744436854,0.245891626688758,3.0,0.8189798439962632,0.9718884488368978,42
+2.0,3,5,0,basic_everyday,Mən səhər çay içirəm.,0.0024501791836387134,0.005600225425507113,2.5,-0.8062941622636669,0.9991031596092323,42
+2.0,3,6,45,intermediate_narrative,İmtahandan sonra tələbələr nəticələri səbirsizliklə gözləyirdilər.,0.02814052172007404,0.06416148440719163,3.0,0.3569454275009649,0.992819384944402,42
+2.0,3,7,6,basic_everyday,Uşaq məktəbə avtobusla gedir.,0.005576061698141782,0.012355869228284785,3.0,-0.19603241486557899,0.998625235664323,42
+2.0,3,8,96,morphologically_complex,Təsdiqlənə bilməyən fərziyyələrdən istifadə edilməməsi araşdırmanın etibarlılığını qoruyur.,0.177802781039577,0.391792260408777,3.0,0.9863746660152812,0.9543869789301263,42
+2.0,3,9,89,morphologically_complex,Oxuduqlarını başqalarına izah edə bilməyənlər mövzunu yenidən öyrənməlidirlər.,0.021206021653788758,0.03841957063391033,3.0,0.18406000041367254,0.9957127785506991,42
+2.0,3,10,88,morphologically_complex,"Gecikdirilməsinə baxmayaraq, sifarişlərimizin çatdırılması nəhayət başlandı.",0.19160173790354004,0.3397692247888825,3.0,0.9344884481200878,0.9607036617092883,42
+2.0,4,1,39,intermediate_narrative,"Mən onun niyə susduğunu soruşmadım, çünki yorğun görünürdü.",0.0102369921080044,0.014675142767805209,3.0,-0.13851853795252167,0.99836676111209,42
+2.0,4,2,13,basic_everyday,Telefonumun batareyası bitdi.,0.003109017043679453,0.004411276573097678,3.0,-0.5399449104016716,0.9995096176837286,42
+2.0,4,3,90,morphologically_complex,Əlaqələndirilməyən məlumatların birləşdirilməsi yanlış nəticələr yarada bilər.,0.047296486673159,0.06689870849622413,3.0,0.3710782449467042,0.9925107208651262,42
+2.0,4,4,94,morphologically_complex,Tamamlanmış işlərimizin yoxlanılmasını məsul əməkdaşlara həvalə etdik.,0.06056648159834955,0.0816166875491002,3.0,0.4384809127648418,0.9908477148375157,42
+2.0,4,5,19,basic_everyday,Uşaqlar həyətdə sevinclə oynayırlar.,0.09699085522486063,0.12278447551996775,3.0,0.5777707000906299,0.9861658981230392,42
+2.0,4,6,43,intermediate_narrative,Külək güclənəndə balıqçılar qayıqlarını sahilə çəkdilər.,0.14285923646463128,0.16331013723244842,3.0,0.6759973263596115,0.9815126469745054,42
+2.0,4,7,12,basic_everyday,Nənəm bağda gülləri sulayır.,0.016396811405510338,0.01606631842556922,3.0,-0.10822496919678913,0.9982116553316172,42
+2.0,4,8,59,advanced_academic_technical,Mikroprosessor əmrləri yaddaşdan götürərək onları ardıcıl şəkildə icra edir.,0.005952249190976412,0.005736645343168681,2.888888888888889,-0.5204321446974962,0.9993121477575223,42
+2.0,4,9,60,advanced_academic_technical,Bayes yanaşması əvvəlki ehtimalları yeni müşahidələr əsasında yeniləyir.,0.009287547724693243,0.008897852498023912,2.625,-0.5331502866296819,0.998707029906629,42
+2.0,4,10,26,intermediate_narrative,Köhnə sandığın içində babasının gənclik məktubları vardı.,0.006545244006411897,0.006212374193909939,2.857142857142857,-0.512766415313713,0.9992384041329814,42
+2.0,5,1,50,advanced_academic_technical,Tədqiqatın nəticələri seçilmiş nümunənin ölçüsündən əhəmiyyətli dərəcədə asılıdır.,0.18384374083480398,0.1733519402764795,3.0,0.6966766161004495,0.9803526551426706,42
+2.0,5,2,51,advanced_academic_technical,Alqoritm verilənlərdəki çatışmayan qiymətləri iterativ üsulla təxmin edir.,0.056546866171032974,0.04351727729678965,3.0,0.22597319686157832,0.9951411384312794,42
+2.0,5,3,31,intermediate_narrative,Qatar gecikdiyi üçün sərnişinlər vağzalda uzun müddət gözlədilər.,0.00854784894447756,0.006206265412411304,2.75,-0.5831834253143334,0.9991786622092038,42
+2.0,5,4,70,advanced_academic_technical,Diferensial tənlik sistemin zamanla dəyişən dinamikasını modelləşdirir.,0.08119253639591097,0.058446885499189256,3.0,0.3254183731989336,0.9934631714841556,42
+2.0,5,5,40,intermediate_narrative,Köhnə fotoşəkildə ailəmizin hamısı bağın qarşısında dayanmışdı.,0.020841686977540012,0.013784869155454916,3.0,-0.15944597917025008,0.9984659946993537,42
+2.0,5,6,30,intermediate_narrative,Aysel müsabiqədə qalib gələcəyinə əvvəlcə inanmırdı.,0.08559115955753425,0.055430858482520495,3.0,0.3075299818864945,0.9938026080572726,42
+2.0,5,7,48,intermediate_narrative,Atamın danışdığı hadisəni eşidən uşaqlar təəccüblə bir-birinə baxdılar.,0.03668319189541303,0.02172352151979361,3.0,-0.007246406677680881,0.9975804210242698,42
+2.0,5,8,62,advanced_academic_technical,Spektroskopik təhlil nümunənin molekulyar tərkibi haqqında məlumat verir.,0.00891733197665413,0.00508706379242569,3.0,-0.492382543997744,0.9994344508438825,42
+2.0,5,9,25,intermediate_narrative,Leyla avtobus dayanacağına çatanda yağış yenicə başlamışdı.,0.017611232913855707,0.00995707757935353,3.0,-0.26815995952208505,0.9988924313383983,42
+2.0,5,10,34,intermediate_narrative,Rauf məktubu oxuyandan sonra qərarını dəyişməyə razılaşdı.,0.09191227110484095,0.05105038427278152,3.0,0.27975850145116293,0.9942951902262473,42
