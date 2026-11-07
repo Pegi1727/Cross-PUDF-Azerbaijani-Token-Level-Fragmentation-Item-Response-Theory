@@ -1,0 +1,101 @@
+row_id,tier,sentence
+0,basic_everyday,Mən səhər çay içirəm.
+1,basic_everyday,Atam bazardan təzə alma aldı.
+2,basic_everyday,Bu gün hava çox gözəldir.
+3,basic_everyday,Bacım kitabını masanın üstünə qoydu.
+4,basic_everyday,Biz axşam parkda gəzəcəyik.
+5,basic_everyday,Qonşumuz yeni bir maşın aldı.
+6,basic_everyday,Uşaq məktəbə avtobusla gedir.
+7,basic_everyday,Anam nahar üçün şorba bişirdi.
+8,basic_everyday,"Pəncərəni aç, otaq isti oldu."
+9,basic_everyday,Dostum mənə maraqlı bir məktub yazdı.
+10,basic_everyday,Sabah mağazadan çörək alacağam.
+11,basic_everyday,Pişik divanın altında yatır.
+12,basic_everyday,Nənəm bağda gülləri sulayır.
+13,basic_everyday,Telefonumun batareyası bitdi.
+14,basic_everyday,Bu stəkan soyuq su ilə doludur.
+15,basic_everyday,Qardaşım futbol oynamağı sevir.
+16,basic_everyday,Saat yeddidə evdən çıxırıq.
+17,basic_everyday,Müəllim lövhəyə yeni söz yazdı.
+18,basic_everyday,Mənim çantam qapının yanındadır.
+19,basic_everyday,Uşaqlar həyətdə sevinclə oynayırlar.
+20,basic_everyday,Atam hər gün qəzet oxuyur.
+21,basic_everyday,Bu köynək mənə bir az böyükdür.
+22,basic_everyday,Səhər yeməyinə pendir və zeytun yedik.
+23,basic_everyday,"Dünən yağış yağdı, yollar islandı."
+24,basic_everyday,"Zəhmət olmasa, mənə bir stəkan su ver."
+25,intermediate_narrative,Leyla avtobus dayanacağına çatanda yağış yenicə başlamışdı.
+26,intermediate_narrative,Köhnə sandığın içində babasının gənclik məktubları vardı.
+27,intermediate_narrative,Səfərə çıxmazdan əvvəl xəritəni diqqətlə yoxlamağı unutmadıq.
+28,intermediate_narrative,Kəndə qayıdan Murad uşaqlıq dostlarını dərhal tanıdı.
+29,intermediate_narrative,Gün batarkən dənizin üzərində narıncı işıq yayılırdı.
+30,intermediate_narrative,Aysel müsabiqədə qalib gələcəyinə əvvəlcə inanmırdı.
+31,intermediate_narrative,Qatar gecikdiyi üçün sərnişinlər vağzalda uzun müddət gözlədilər.
+32,intermediate_narrative,Nənəm danışdığı nağılların sonunda həmişə bir məsləhət verərdi.
+33,intermediate_narrative,İtkin açarları tapmaq üçün bütün otaqları yenidən axtardıq.
+34,intermediate_narrative,Rauf məktubu oxuyandan sonra qərarını dəyişməyə razılaşdı.
+35,intermediate_narrative,Dağ yolunda duman sıxlaşdıqca sürücümüz sürəti azaltdı.
+36,intermediate_narrative,Yeni qonşular köçəndən sonra məhəllə daha canlı göründü.
+37,intermediate_narrative,Tamaşa başlayanda zalda işıqlar bir-bir söndürüldü.
+38,intermediate_narrative,Səhər tezdən yola düşən səyyah axşama yaxın çaya çatdı.
+39,intermediate_narrative,"Mən onun niyə susduğunu soruşmadım, çünki yorğun görünürdü."
+40,intermediate_narrative,Köhnə fotoşəkildə ailəmizin hamısı bağın qarşısında dayanmışdı.
+41,intermediate_narrative,Orxan itirdiyi dəftəri kitabxananın oxu zalında tapdı.
+42,intermediate_narrative,Yol boyu danışdığımız əhvalat səfərin yorğunluğunu unutdurdu.
+43,intermediate_narrative,Külək güclənəndə balıqçılar qayıqlarını sahilə çəkdilər.
+44,intermediate_narrative,Gecə boyu yanan çıraq uzaqdan gələn qonaqlara yol göstərirdi.
+45,intermediate_narrative,İmtahandan sonra tələbələr nəticələri səbirsizliklə gözləyirdilər.
+46,intermediate_narrative,Günortadan bəri davam edən qar kənd yollarını bağlamışdı.
+47,intermediate_narrative,Əli bağçada tapdığı yaralı quşu ehtiyatla evə gətirdi.
+48,intermediate_narrative,Atamın danışdığı hadisəni eşidən uşaqlar təəccüblə bir-birinə baxdılar.
+49,intermediate_narrative,Qapını açanda içəridən təzə bişmiş çörəyin ətri gəldi.
+50,advanced_academic_technical,Tədqiqatın nəticələri seçilmiş nümunənin ölçüsündən əhəmiyyətli dərəcədə asılıdır.
+51,advanced_academic_technical,Alqoritm verilənlərdəki çatışmayan qiymətləri iterativ üsulla təxmin edir.
+52,advanced_academic_technical,Fotosintez zamanı bitkilər işıq enerjisini kimyəvi enerjiyə çevirirlər.
+53,advanced_academic_technical,Məqalədə korrelyasiya ilə səbəbiyyət arasındakı fərq ayrıca izah olunur.
+54,advanced_academic_technical,Seysmik dalğaların yayılma sürəti süxurların elastik xassələrindən asılıdır.
+55,advanced_academic_technical,Protokol şifrələnmiş məlumatların ötürülməsini və bütövlüyünün yoxlanmasını təmin edir.
+56,advanced_academic_technical,Təklif olunan model qeyri-xətti münasibətləri məhdud sayda parametr vasitəsilə təsvir edir.
+57,advanced_academic_technical,Atmosferdəki aerozollar buludların yaranmasına və radiasiya balansına təsir göstərə bilər.
+58,advanced_academic_technical,Eksperimentin təkrarlanması ölçmə xətalarının qiymətləndirilməsi üçün vacibdir.
+59,advanced_academic_technical,Mikroprosessor əmrləri yaddaşdan götürərək onları ardıcıl şəkildə icra edir.
+60,advanced_academic_technical,Bayes yanaşması əvvəlki ehtimalları yeni müşahidələr əsasında yeniləyir.
+61,advanced_academic_technical,Hidravlik sistemdə təzyiq itkisi borunun uzunluğu və diametri ilə dəyişir.
+62,advanced_academic_technical,Spektroskopik təhlil nümunənin molekulyar tərkibi haqqında məlumat verir.
+63,advanced_academic_technical,Məlumat bazasının normallaşdırılması təkrarlanan qeydlərin sayını azaldır.
+64,advanced_academic_technical,Kvant mexanikasında ölçmə nəticələri ehtimal paylanması ilə ifadə edilir.
+65,advanced_academic_technical,İqlim proqnozları müxtəlif ssenarilər üzrə qeyri-müəyyənlik intervalı təqdim edir.
+66,advanced_academic_technical,Tədqiqatçılar hipotezi yoxlamaq üçün nəzarət və sınaq qruplarını müqayisə etdilər.
+67,advanced_academic_technical,Şəbəkə gecikməsinin artması real vaxt tətbiqlərinin cavab sürətini zəiflədir.
+68,advanced_academic_technical,Polimerin mexaniki davamlılığı temperatur və rütubət dəyişdikcə fərqlənir.
+69,advanced_academic_technical,Rəqəmsal arxiv uzunmüddətli saxlanma üçün metadata standartlarından istifadə edir.
+70,advanced_academic_technical,Diferensial tənlik sistemin zamanla dəyişən dinamikasını modelləşdirir.
+71,advanced_academic_technical,Tibbi görüntülərin seqmentasiyası anatomik strukturların sərhədlərini müəyyənləşdirir.
+72,advanced_academic_technical,Enerji səmərəliliyi göstəricisi faydalı çıxışın sərf olunan enerjiyə nisbətidir.
+73,advanced_academic_technical,Məxfilik mexanizmi fərdi məlumatların icazəsiz açıqlanması riskini məhdudlaşdırır.
+74,advanced_academic_technical,Statistik əhəmiyyət praktiki təsirin böyüklüyü ilə eyni anlayış deyil.
+75,morphologically_complex,Görüşümüzədək hazırladığınız sənədləri katiblikdə qeydiyyatdan keçirməlisiniz.
+76,morphologically_complex,Müəllimlərimizin şagirdlərimizə tövsiyə etdikləri kitablar kitabxanamızdadır.
+77,morphologically_complex,Danışdıqlarımızdan nəticə çıxarmayanların fikirlərini yenidən dinlədik.
+78,morphologically_complex,Qarşılaşdıqlarımızın əksəriyyəti gözlədiyimizdən daha mürəkkəb oldu.
+79,morphologically_complex,Yeniləşdirilməyən proqramların təhlükəsizliyini mütəmadi yoxlamalısınız.
+80,morphologically_complex,Razılaşdırılmamış dəyişikliklərin istifadəçilərimizə bildirilməsi vacibdir.
+81,morphologically_complex,Uzaqlaşdırıldıqlarından xəbərsiz olan əməkdaşlar iclasa gecikdilər.
+82,morphologically_complex,Səhvlərimizdən öyrənməyənlərimiz eyni çətinliklərlə təkrarən qarşılaşırlar.
+83,morphologically_complex,Müəyyənləşdirə bilmədiklərimizin səbəblərini araşdırmağımız tələb olunur.
+84,morphologically_complex,Qayıdacağımızadək evdə saxlanılacaq ərzaqları siyahıya aldıq.
+85,morphologically_complex,Hazırlanması nəzərdə tutulmuş nümunələrin qablaşdırılması tamamlanmalıdır.
+86,morphologically_complex,Münasibətlərimizin yaxşılaşdırılmasına yönəldilmiş təkliflər müzakirə olundu.
+87,morphologically_complex,İmzalanmamış müqavilələrin tərəflərimizə göndərilməsini dayandırdılar.
+88,morphologically_complex,"Gecikdirilməsinə baxmayaraq, sifarişlərimizin çatdırılması nəhayət başlandı."
+89,morphologically_complex,Oxuduqlarını başqalarına izah edə bilməyənlər mövzunu yenidən öyrənməlidirlər.
+90,morphologically_complex,Əlaqələndirilməyən məlumatların birləşdirilməsi yanlış nəticələr yarada bilər.
+91,morphologically_complex,Görünməyənlərimizin müəyyənləşdirilməsindən sonra siyahı yeniləndi.
+92,morphologically_complex,Dəyişdirilməyəcəyinə inandığımız qaydalar sonradan yenidən nəzərdən keçirildi.
+93,morphologically_complex,Razılaşmadıqlarımızı əsaslandırmadan qəbul etdirməyə çalışmaq düzgün deyil.
+94,morphologically_complex,Tamamlanmış işlərimizin yoxlanılmasını məsul əməkdaşlara həvalə etdik.
+95,morphologically_complex,Müraciətlərimizin cavablandırılmadığını bildirənlərə əlavə izahat göndərildi.
+96,morphologically_complex,Təsdiqlənə bilməyən fərziyyələrdən istifadə edilməməsi araşdırmanın etibarlılığını qoruyur.
+97,morphologically_complex,Gizlədildiklərini düşündüyümüz sənədlərin arxivdə saxlanıldığı məlum oldu.
+98,morphologically_complex,Yerləşdirilməli olduqları bölmələr əvvəlcədən müəyyənləşdirilmədiyindən fayllar qarışdı.
+99,morphologically_complex,"Gözlədiklərimizdən fərqli cavablar alınsa da, təhlili davam etdirməliyik."
