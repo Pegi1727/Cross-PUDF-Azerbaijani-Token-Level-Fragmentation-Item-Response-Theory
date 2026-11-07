@@ -16,14 +16,56 @@
 
 ## Figures
 
-Click a figure to open the full-resolution image. These links expect the PNG files to be committed in the repository's `figures/` directory.
+<p align="center">
+  <img src="figures/cross_pudf_graphical_abstract_final.png" alt="Graphical Abstract" width="100%">
+  <br>
+  <em><b>Graphical Abstract:</b> Overview of token-level fragmentation, 2PL-IRT parameterization, and Fisher information-based adaptive ZPD sampling in Azerbaijani.</em>
+</p>
 
-| Figure | Description |
-|---|---|
-| [Figure 1](cross_pudf_figure_1.png) | Study overview / tokenizer comparison |
-| [Figure 2](cross_pudf_figure_2.png) | Tokenization and fragmentation summaries |
-| [Figure 3](cross_pudf_figure_3.png) | Difficulty-score and tier comparisons |
-| [Figure 4](cross_pudf_figure_4.png) | Ability-conditioned sampling / ZPD illustration |
+---
+
+### Figure 1: Pipeline & Methodological Architecture
+<p align="center">
+  <img src="figures/cross_pudf_figure_1.png" alt="Figure 1" width="100%">
+</p>
+
+> **Figure 1:** End-to-end analytical pipeline from multilingual vs. monolingual tokenization through empirical fertility estimation, composite item difficulty derivation ($\tilde{b}_i$), 2PL-IRT parameter mapping, and Fisher information-weighted adaptive batch sampling across the latent ability spectrum ($\theta \in \{-2.0, 0.0, 2.0\}$).
+
+---
+
+### Figure 2: Subword Fertility Distributions Across Curricular Tiers
+<p align="center">
+  <img src="figures/cross_pudf_figure_2.png" alt="Figure 2" width="100%">
+</p>
+
+> **Figure 2:** Token fertility distributions across four distinct linguistic tiers: *Basic Everyday* ($M = 2.699$), *Intermediate Narrative* ($M = 3.055$), *Advanced Academic* ($M = 3.071$), and *Morphologically Complex* ($M = 4.392$). Agrarian and agglutinative affix chains induce severe subword fragmentation in the morphologically complex tier ($H = 51.705, p = 3.46 \times 10^{-11}$).
+
+---
+
+### Figure 3: Item Characteristic Curves (2PL-IRT Model)
+<p align="center">
+  <img src="figures/cross_pudf_figure_3.png" alt="Figure 3" width="100%">
+</p>
+
+> **Figure 3:** Two-Parameter Logistic Item Characteristic Curves (ICCs) demonstrating the probability of target-level processing $P_i(\theta)$ as a function of latent ability $\theta$. Discrimination parameters $a_i$ clipped to $[0.3, 3.0]$ show ceiling saturation for $64\%$ of items (including $100\%$ of morphologically complex items).
+
+---
+
+### Figure 4: Sentence Length vs. Subword Fragmentation Disjunction
+<p align="center">
+  <img src="figures/cross_pudf_figure_4.png" alt="Figure 4" width="100%">
+</p>
+
+> **Figure 4:** Bivariate scatter plot of raw word count versus subword token counts, color-coded by tier. While the overall Spearman rank correlation is moderate ($\rho = 0.536, p = 8.84 \times 10^{-9}$), within-tier correlations are non-significant, highlighting that surface word count fails to capture morphological complexity in agglutinative languages.
+
+---
+
+### Figure 5: Adaptive ZPD Batch Progression Across Latent Abilities
+<p align="center">
+  <img src="figures/cross_pudf_figure_5.png" alt="Figure 5" width="100%">
+</p>
+
+> **Figure 5:** Tier composition across 5 simulated adaptive sampling batches (10 items each) for $\theta = -2.0$, $\theta = 0.0$, and $\theta = +2.0$. The Fisher information-driven curriculum automatically excludes morphologically complex items at low ability ($0\%$) while prioritizing them at advanced ability ($48\%$).
 
 ## Scope and status
 
