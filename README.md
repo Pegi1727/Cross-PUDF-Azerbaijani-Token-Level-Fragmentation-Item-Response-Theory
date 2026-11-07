@@ -16,13 +16,6 @@
 
 ## Figures
 
-<p align="center">
-  <img src="figures/cross_pudf_graphical_abstract_final.png" alt="Graphical Abstract" width="100%">
-  <br>
-  <em><b>Graphical Abstract:</b> Overview of token-level fragmentation, 2PL-IRT parameterization, and Fisher information-based adaptive ZPD sampling in Azerbaijani.</em>
-</p>
-
----
 
 ### Figure 1: Pipeline & Methodological Architecture
 <p align="center">
