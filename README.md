@@ -264,8 +264,8 @@ GitHub repository, version [release/tag or commit], [year]. [repository URL]. DO
 ```
 
 For the conceptual PUDF framework, cite the published article below. It is related background, **not** the source of the Azerbaijani corpus or the analyses reported above:
+> Meng, Guangyu, Qingkai Zeng, John P. Lalor, and Hong Yu. 2026. “A Psychology-based Unified Dynamic Framework for Curriculum Learning.” *Computational Linguistics* 52(3): 1001–1047. https://doi.org/10.1162/COLI.a.584
 
-https://github.com/Pegi1727/Cross-PUDF-Azerbaijani-Token-Level-Fragmentation-Item-Response-Theory
 
 ## License
 
